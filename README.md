@@ -25,7 +25,7 @@ Users should be able to:
 
 ![](./wwwroot/assets/images/Gaming.png)
 
-![](./wwwroot/assets/images/Home-page-Gaming.png)
+![](./wwwroot/assets/images/Home-Page-Gaming.png)
 
 ![](./wwwroot/assets/images/Edit-Gaming.png)
 ### Links
