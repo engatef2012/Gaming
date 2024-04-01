@@ -23,8 +23,11 @@ Users should be able to:
 
 ### Screenshot
 
-![]
+![](./wwwroot/assets/images/Gaming.png)
 
+![](./wwwroot/assets/images/Home-page-Gaming.png)
+
+![](./wwwroot/assets/images/Edit-Gaming.png)
 ### Links
 
 - Solution URL: [solution](https://github.com/engatef2012/Gaming)
